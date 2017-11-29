@@ -65,7 +65,7 @@ class Projects extends Component {
                     <img class="card-img-top" src="https://i.imgur.com/WxlNlsj.png?3" alt="Card image cap" />
                     <div class="card body">
                         <h4 class="card-title">Jeopardy</h4>
-                        <p class="card-text">description:'In this application I have created a riff of the T.V. show "Jeopardy".Using HTML, CSS, Javascript and JQUERY I created a functional page that includes addition and subtraction logic</p>
+                        <p class="card-text">In this application I have created a riff of the T.V. show "Jeopardy".Using HTML, CSS, Javascript and JQUERY I created a functional page that includes addition and subtraction logic</p>
                         <a href="http://veterinarian-bridget-62337.bitballoon.com/" class="btn btn-primary">Bitballoon Link</a>  <a href="https://github.com/BReily89/Jeopardy" class="btn btn-primary">github</a>
 
 
@@ -85,7 +85,7 @@ class Projects extends Component {
                         <div class="card-body">
                         <h4 class="card-title">'Self Centered Selfie'</h4>
                         <p class="card-text">React on Rails I created an online journal with full CRUD that allows users to add moods and a selfie associated with each post</p>
-                        <a href="https://self-centered-selfie.herokuapp.com/" class="btn btn-primary">Heroku Link</a> <a href="https://github.com/BReily89/self_centered_selfie" class="btn btn-primary">github</a>
+                        <a href="https://self-centered-selfie.herokuapp.com/" class="btn btn-primary">Heroku Link</a> <br /><a href="https://github.com/BReily89/self_centered_selfie" class="btn btn-primary">github</a>
 
 
                         </div>
