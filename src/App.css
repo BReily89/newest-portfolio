@@ -1,7 +1,14 @@
 Body {
-  /* background-image:url('https://i.imgur.com/tbE0CUj.jpg') */
-
-
+  background-image:url('https://i.imgur.com/tbE0CUj.jpg')
+}
+h4 {
+  color:white;
+}
+p{
+  color:white;
+}
+a{
+  color:white;
 }
 App {
   text-align: center;
