@@ -1,17 +1,29 @@
 Body {
-  background-image:url('https://i.imgur.com/tbE0CUj.jpg')
+  background-image:url('https://i.imgur.com/1gcP1p1.png');
+  height: 100vh;
+  background-size: cover;
+
+
 }
 h4 {
   color:white;
 }
 p{
   color:white;
+  padding: 20px;
 }
 a{
   color:white;
 }
 App {
   text-align: center;
+}
+h1{
+  color:white;
+  text-shadow: 2px 2px 0px black;
+}
+h2 {
+  align-content: right;
 }
 
 .App-logo {
