@@ -7,6 +7,9 @@ const Wrapper = styled.div`
     flex-direction: column;
     justify-content: flex-end;
     align-items: center;
+h1{
+    text-align: center;
+}
 `
 
 class HomePage extends Component {
