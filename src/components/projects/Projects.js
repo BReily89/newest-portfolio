@@ -23,7 +23,7 @@ class Projects extends Component {
                     <div class="card body">
                         <h4 class="card-title">Jeopardy</h4>
                         <p class="card-text">In this application I have created a riff of the T.V. show "Jeopardy".Using HTML, CSS, Javascript and JQUERY I created a functional page that includes addition and subtraction logic</p>
-                        <a href="http://veterinarian-bridget-62337.bitballoon.com/" class="btn btn-primary">Bitballoon Link</a>  <a href="https://github.com/BReily89/Jeopardy" class="btn btn-primary">github</a>
+                        <a href="http://veterinarian-bridget-62337.bitballoon.com/" class="btn btn-primary">Bitballoon Link</a> <br /> <a href="https://github.com/BReily89/Jeopardy" class="btn btn-primary">github</a>
                         </div>
                      </Project>   
                     
@@ -33,7 +33,7 @@ class Projects extends Component {
                         <div class="card body">
                             <h4 class="card-title">'Lazy Lifter'</h4>
                             <p class="card-text">With React, I created an online library of exercise routines associated with users</p>
-                            <a href="https://lazy-lifter.herokuapp.com/" class="btn btn-primary">Heroku Link</a> <a href="https://github.com/BReily89/project-3" class="btn btn-primary">Github</a>
+                            <a href="https://lazy-lifter.herokuapp.com/" class="btn btn-primary">Heroku Link</a><br /> <a href="https://github.com/BReily89/project-3" class="btn btn-primary">Github</a>
 
 
                         </div>
@@ -51,7 +51,7 @@ class Projects extends Component {
                         <div class="card-body">
                         <h4 class="card-title">Vagabond project</h4>
                         <p class="card-text">Using React on Rails we teamed up in groups for some paired/mob programming to complete 'sprints' to build our own version of trip advisor</p>
-                        <a href="https://wander-wisely.herokuapp.com/" class="btn btn-primary">Heroku Link</a> <a href="https://github.com/ern19/project_vagabond" class="btn btn-primary">Github</a>
+                        <a href="https://wander-wisely.herokuapp.com/" class="btn btn-primary">Heroku Link</a><br/> <a href="https://github.com/ern19/project_vagabond" class="btn btn-primary">Github</a>
                         </div></Project></div>   </div>         
                     
                         
