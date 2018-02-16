@@ -17,13 +17,13 @@ class HomePage extends Component {
         return (
             <div>
             <div>
-                <Wrapper>
-                <h1>The Portfolio of Brandon Reily </h1>
-                <h2><img  src="https://i.imgur.com/faDPfH1.jpg?1"/></h2>
-                <h3>My Name is Brandon  and I am an energetic full stack developer with over 9 yrs of hospitality experience in a range of customer-oriented service roles. Strong ability to troubleshoot and problem-solve in fast-paced environment. Seasoned leader and decision maker equipped with the finesse to effectively communicate with a variety of client and personality types. Seeking to apply professional background with a Development team that values a client driven approach to hospitality work. Eager to learn and expand my skill set .</h3>
+                {/* <Wrapper> */}
+                <h3>I'm Brandon and I'm an energetic full stack developer with over 9 yrs of hospitality experience in a range of customer-oriented service roles. I posses a strong ability to troubleshoot and problem-solve in fast-paced environment. Seasoned leader and decision maker equipped with the finesse to effectively communicate with a variety of client and personality types. Seeking to apply professional background with a Development team that values a client driven approach to hospitality work. Eager to learn and expand my skill set .</h3>
+
+                <h2><img  src="https://i.imgur.com/r0UHtKz.jpg?2"/></h2>
 
                 
-                </Wrapper>
+                {/* </Wrapper> */}
                 <Projects />
             </div>
             </div>

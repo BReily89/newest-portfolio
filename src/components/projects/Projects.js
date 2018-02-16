@@ -19,7 +19,7 @@ class Projects extends Component {
 
 
                 <Project class="card" styles="width: 20rem;">
-                    <img class="card-img-top" src="https://i.imgur.com/WxlNlsj.png?3" alt="Card image cap" />
+                    <img class1="card-img-top" src="https://i.imgur.com/WxlNlsj.png?3" alt="Card image cap" />
                     <div class="card body">
                         <h4 class="card-title">Jeopardy</h4>
                         <p class="card-text">In this application I have created a riff of the T.V. show "Jeopardy".Using HTML, CSS, Javascript and JQUERY I created a functional page that includes addition and subtraction logic</p>
@@ -29,7 +29,7 @@ class Projects extends Component {
                     
 
                     <Project class="card" styles="width: 20rem;">
-                        <img class="card-img-top" src="https://i.imgur.com/NfgFRI1.png?2" alt="Card image cap" />
+                        <img class1="card-img-top" src="https://i.imgur.com/NfgFRI1.png?2" alt="Card image cap" />
                         <div class="card body">
                             <h4 class="card-title">'Lazy Lifter'</h4>
                             <p class="card-text">With React, I created an online library of exercise routines associated with users</p>
@@ -38,7 +38,7 @@ class Projects extends Component {
 
                         </div>
                         <div class="card" styles="width: 20rem;"/>
-                        <img class="card-img-top" src="https://i.imgur.com/lhMAwQu.png?3" alt="Card image cap"/>
+                        <img class1="card-img-top" src="https://i.imgur.com/lhMAwQu.png?3" alt="Card image cap"/>
                         <div class="card-body">
                         <h4 class="card-title">'Self Centered Selfie'</h4>
                         <p class="card-text">React on Rails I created an online journal with full CRUD that allows users to add moods and a selfie associated with each post</p>
@@ -47,7 +47,7 @@ class Projects extends Component {
 
                         </div>
                         <div class="card" styles="width: 20rem;"/>
-                        <img class="card-img-top" src="https://i.imgur.com/t1IboHC.jpg?2" alt="Card image cap"/>
+                        <img class1="card-img-top" src="https://i.imgur.com/t1IboHC.jpg?2" alt="Card image cap"/>
                         <div class="card-body">
                         <h4 class="card-title">Vagabond project</h4>
                         <p class="card-text">Using React on Rails we teamed up in groups for some paired/mob programming to complete 'sprints' to build our own version of trip advisor</p>
