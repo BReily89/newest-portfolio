@@ -17,7 +17,7 @@ h3{
 }
 img{
     border-radius:120px;
-    padding: 20px;
+    padding: 50px;
 }
 `
 
